@@ -4,6 +4,8 @@
 | :--: | :--: |
 | master | [![CircleCI](https://circleci.com/gh/uobikiemukot/yaft.svg?style=svg)](https://circleci.com/gh/uobikiemukot/yaft) |
 | develop | [![CircleCI](https://circleci.com/gh/uobikiemukot/yaft/tree/develop.svg?style=svg)](https://circleci.com/gh/uobikiemukot/yaft/tree/develop) |
+[![Code Quality: Cpp](https://img.shields.io/lgtm/grade/cpp/g/uobikiemukot/yaft.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/uobikiemukot/yaft/context:cpp)
+[![Total Alerts](https://img.shields.io/lgtm/alerts/g/uobikiemukot/yaft.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/uobikiemukot/yaft/alerts)
 
 Last update: Wed Mar 14 18:44:27 JST 2018
 
